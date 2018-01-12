@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "DAB2NZFLN5.com.razeware.TestUniversalLinks",
-				"paths": [ "*"]
+				"paths": [ "/calback/*"]
 			}
 		]
 	}
